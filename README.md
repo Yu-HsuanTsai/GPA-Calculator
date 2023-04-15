@@ -4,7 +4,7 @@ GPA 計算方式＝（成績 X 學分數）的加總／學分數的加總，在�
 
 ## Demo
 
+Page https://yuan236gpa-calculator.netlify.app/
+
 ![](./GPA-Calculator.gif)
 ![](./Demo.png)
-
-https://yuan236gpa-calculator.netlify.app/
